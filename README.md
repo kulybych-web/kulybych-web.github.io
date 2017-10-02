@@ -14,6 +14,8 @@
 
 [Урок 14](http://https://kulybych-web.github.io/fonts/index.html "Описание")
 
+[Модуль 5 Практика 1](http://kulybych-web.github.io/practice_module5_part2//index.html "Описание")
+
 
 
 
