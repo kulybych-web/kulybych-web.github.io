@@ -18,7 +18,11 @@
 
 [Урок 15](https://kulybych-web.github.io/arhiv-s-dz-15-urok/index.html "Описание") - Псевдоклассы и псевдоэлементы
 
-[Модуль 5 Практика 3](https://kulybych-web.github.io/practice_module5_part3//index.html "Описание") - Сделал верстку адаптивной для разных размеров экранов 
+[Модуль 5 Практика 3](https://kulybych-web.github.io/practice_module5_part3/index.html "Описание") - Сделал верстку адаптивной для разных размеров экранов 
+
+[Модуль 5 Практика 3.1](https://kulybych-web.github.io/practice_module5_part3.1/index.html "Описание") - доделал верстку длял экранов телефонов
+
+[Урок 16](https://kulybych-web.github.io/lesson_16/index.html "Описание") - сделал слайдер 
 
 
 
