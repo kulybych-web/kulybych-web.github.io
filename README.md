@@ -24,6 +24,8 @@
 
 [Урок 16](https://kulybych-web.github.io/lesson_16/index.html "Описание") - сделал слайдер 
 
+[Модуль 5 Практика 4](https://kulybych-web.github.io/practice_module5_part4/index.html "Описание") - сверстал второй блок с преимуществами и добавил для них слайдер slick
+
 
 
 
