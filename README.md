@@ -10,6 +10,8 @@
 
 [Урок 10](http://kulybych-web.github.io/lesson_10/index.html "Описание") - Написал LESS код, который на выходе выдал такой же код как в файле homework.css
 
+[Урок 13](https://kulybych-web.github.io/lesson_13/index.html "Описание") - сверстал макет при помощи PerfectPixel
+
 [Модуль 5 Практика 1](http://kulybych-web.github.io/practice_module5_part1/index.html "Описание") - Развернул проект и сверстал шапку сайта
 
 [Урок 14](https://kulybych-web.github.io/fonts/index.html "Описание") - подключили шрифты
@@ -25,6 +27,10 @@
 [Урок 16](https://kulybych-web.github.io/lesson_16/index.html "Описание") - сделал слайдер 
 
 [Модуль 5 Практика 4](https://kulybych-web.github.io/practice_module5_part4/index.html "Описание") - сверстал второй блок с преимуществами и добавил для них слайдер slick
+
+[Урок 17](https://kulybych-web.github.io/lesson_17/index.html "Описание") - сверстал первое модальное окно
+
+[Модуль 5 Практика 5](https://kulybych-web.github.io/practice_module5_part5/index.html "Описание") - сверстал модальное окно сайта
 
 
 
