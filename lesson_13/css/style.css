@@ -1,0 +1,88 @@
+body {
+background:  url(../img/bg.jpg) center top no-repeat;
+height: 570px;
+}
+
+.create-account {
+  position: absolute;
+  width: 149px;
+  height: 25px;
+  background-color: #01b3b3;
+  display: block;
+  text-align: center;
+  margin: -3px 830px 0 ;
+}
+
+.create-account p {
+  font-weight: 570;
+  font-size: 12px ;
+  text-transform: uppercase;
+  color: white;
+  margin-top: 5px;
+}
+
+.bg-form {
+  margin: 124px auto;
+  border: 1px solid #cfdede;
+  height: 370px;
+  width: 320px;
+width: 320px;
+height: 370px;
+background-color: #fbfdfd;
+}
+
+.main-form {
+  margin-top: 19px;
+}
+
+.main-form-input{
+  display: block;
+  margin: 0 auto;
+  height: 32px;
+  width: 262px;
+  border: 1px solid #cfdede;
+  border-radius: 3px;
+  background:  url(../img/bg.jpg) 0 0 no-repeat; 
+}
+
+.main-form label {
+  font-size: 12px;
+  display: block;
+  margin-left: 29px;
+}
+
+.main-form-btn {
+  display: block;
+  margin: 0 auto;
+  width: 260px;
+  height: 45px;
+  font-size: 1.6rem;
+  margin-top: 34px;
+  background-color: #01c0c0;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.email {
+    padding: 32px 0 5px;
+}
+
+.choose {
+  margin: 15px 0 11px;
+}
+
+.confirm {
+  margin: 17px 0px 9px;
+}
+
+.star {
+  display: inline-block;
+  color: #57c3c3
+}
+
+::-webkit-input-placeholder {
+  padding: 0 12px;
+  font-style: italic;
+  font-size: 12px;
+}
