@@ -32,6 +32,8 @@
 
 [Модуль 5 Практика 5](https://kulybych-web.github.io/practice_module5_part5/index.html "Описание") - сверстал модальное окно сайта
 
+[Модуль 5 Практика 6](https://kulybych-web.github.io/practice_module5_part6/index.html "Описание") - сверстал третий блок с ценами и сделал его адаптивным
+
 
 
 
