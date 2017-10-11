@@ -34,6 +34,12 @@
 
 [Модуль 5 Практика 6](https://kulybych-web.github.io/practice_module5_part6/index.html "Описание") - сверстал третий блок с ценами и сделал его адаптивным
 
+[Модуль 5 Практика 7](https://kulybych-web.github.io/practice_module5_part7/index.html "Описание")
+
+[Урок 17](https://kulybych-web.github.io/lesson_20/index.html "Описание")
+
+[Модуль 5 Практика 8](https://kulybych-web.github.io/practice_module5_part8/index.html "Описание")
+
 
 
 
