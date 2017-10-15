@@ -34,7 +34,7 @@
 
 [Урок 18](https://kulybych-web.github.io/lesson_18/index.html "Описание")
 
-[Урок 18](https://kulybych-web.github.io/lesson_18_2/index.html "Описание")
+[Урок 18_2](https://kulybych-web.github.io/lesson_18_2/index.html "Описание")
 
 [Модуль 5 Практика 6](https://kulybych-web.github.io/practice_module5_part6/index.html "Описание") - сверстал третий блок с ценами и сделал его адаптивным
 
