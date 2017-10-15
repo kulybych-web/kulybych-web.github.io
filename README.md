@@ -44,6 +44,10 @@
 
 [Модуль 5 Практика 9](https://kulybych-web.github.io/practice_module5_part9/index.html "Описание")
 
+[Урок 22](https://kulybych-web.github.io/lesson_22/index.html "Описание")
+
+[Модуль 5 Практика 10](https://kulybych-web.github.io/practice_module5_part10/index.html "Описание")
+
 
 
 
