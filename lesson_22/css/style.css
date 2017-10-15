@@ -1,0 +1,52 @@
+.y-map {
+	position: relative;
+}
+
+.map-block {
+	position: absolute;
+	top: 0;
+	background-color: #c60b0b;
+	height: 430px;
+	width: 380px;
+}
+
+.map-content {
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+	font-size: 1.6rem;
+}
+
+.map-content p {
+	margin: 40px 0;
+}
+
+.map-content a {
+	text-decoration: none;
+	text-decoration: underline;
+	color: white;
+}
+
+.under-map {
+	margin-top: 30px;
+}
+
+.certificate p {
+	text-align: center;
+}
+.logo img {
+	margin-right: 20px;
+}
+
+.logo p {
+	font-size: 1.6rem;
+}
+.number h3 {
+	margin-top: 0;
+	text-align: center;
+}
+
+.number p {
+	text-align: center;
+}
+
