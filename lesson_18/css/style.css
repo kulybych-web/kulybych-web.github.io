@@ -1,0 +1,31 @@
+body {
+	background:  url(../img/bg.jpg) 0 0 repeat;
+}
+
+.header {
+	text-align: center;
+	padding: 76px 0 50px;
+	text-transform: uppercase;
+	color: #0bbaf0
+}
+
+.header h1 {
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #0bbaf0
+}
+
+.size {
+	padding: 10px 17px; 
+	font-size: 2rem ;
+}
+
+.panel-default .panel-heading {
+	color: white;
+	background-color: #0bbaf0;
+	padding: 10px 17px; 
+}
+
+.panel-body {
+	font-size: 2rem;
+}
