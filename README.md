@@ -32,7 +32,13 @@
 
 [Модуль 5 Практика 5](https://kulybych-web.github.io/practice_module5_part5/index.html "Описание") - сверстал модальное окно сайта
 
+[Урок 18](https://kulybych-web.github.io/lesson_18/index.html "Описание")
+
+[Урок 18](https://kulybych-web.github.io/lesson_18_2/index.html "Описание")
+
 [Модуль 5 Практика 6](https://kulybych-web.github.io/practice_module5_part6/index.html "Описание") - сверстал третий блок с ценами и сделал его адаптивным
+
+[Урок 19](https://kulybych-web.github.io/lesson_19/index.html "Описание")
 
 [Модуль 5 Практика 7](https://kulybych-web.github.io/practice_module5_part7/index.html "Описание")
 
