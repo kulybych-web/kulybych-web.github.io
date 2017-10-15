@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <link rel="icon" href="/favicon.ico">
+    <title>web</title>
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container">
+    	<div id="head-tabs">
+    		<div class="tabs">
+    			<div class="tab active">Вход</div>
+    			<div class="tab">Регистрация</div>
+    		</div>
+    		<div class="content">
+    			<div class="tab-cont active">
+    			<form class="form" action="#">
+    				<input class="form-input form-input-name" type="text" placeholder="Ваше имя">
+    				<input class="form-input" type="text" placeholder="Пароль">
+    				<p class="password"><a href="">Забыли пароль?</a></p>
+    				<p class="remind"><input type="checkbox"> Напомнить мне</p>
+    				<div class="sign">	
+    				<span>Войти</span>
+    				</div>
+    				
+
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>
+    	$(function(){
+    		$("#head-tabs").on("click", ".tab", function(){
+    			var tabs = $("#head-tabs .tab"),
+    			    cont = $("#head-tabs .tab-cont");
+    			
+    			tabs.removeClass("active");
+    			cont.removeClass("active");
+    			
+    			$(this).addClass("active");
+    			cont.eq($(this).index()).addClass("active");
+    			return false;
+    		});
+    	});
+    </script>
+  </body>
+</html>
