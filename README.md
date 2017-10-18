@@ -54,7 +54,7 @@
 
 [Модуль 5 Практика 10](https://kulybych-web.github.io/practice_module5_part10/index.html "Описание")
 
-[Урок Бонус](https://kulybych-web.github.io/lesson_bonus/index.html "Описание")
+[Урок Бонус](https://kulybych-web.github.io/lessn_bonus/index.html "Описание")
 
 
 
