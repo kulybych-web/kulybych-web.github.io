@@ -1,0 +1,112 @@
+.header {
+  text-align: center;
+}
+.header-logo {
+  display: inline-block;
+  margin: 3rem 40rem 3rem 0;
+}
+.header-logo-cart {
+  height: 3rem;
+  width: 3rem;
+}
+.header-cart {
+  display: inline-block;
+  margin: 3rem 4rem 3rem 40rem;
+}
+.header-cart a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+.header-btn {
+  display: inline-block;
+  border: 2px solid #e3e8f0;
+  border-radius: 50px;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.header-links {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+.header-links a {
+  color: black;
+  padding-left: 2rem;
+}
+.v-line {
+  border: 1px solid #e3e8f0;
+}
+.goods-list {
+  display: inline-block;
+  font-size: 1.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.goods-list a {
+  text-decoration: none;
+  color: #b9bed1;
+  margin-left: 5rem;
+}
+.goods-list a:hover {
+  color: black;
+  /* Цвет ссылок */
+}
+.goods-list-support {
+  display: inline-block;
+  margin-left: 60rem;
+  border-right: 2px solid #e3e8f0;
+  padding: 2rem 5rem ;
+}
+.goods-input {
+  display: inline-block;
+}
+.goods-input ::-webkit-input-placeholder {
+  font-size: 1.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #b9bed1;
+}
+.goods-input input {
+  border: none;
+  outline: none;
+  margin-left: 1rem;
+}
+.goods-input-search {
+  height: 2rem;
+  width: 2rem;
+  margin-left: 2rem;
+}
+.main {
+  background: #ffffff url(../img/main-bg.jpg) no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.main-header {
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 6rem;
+  margin-top: 0;
+  padding: 18rem 4rem 0 21rem;
+  color: white;
+}
+.main-text {
+  font-size: 2rem;
+  padding: 4rem 0 10rem 21rem;
+  color: white;
+}
+.main-btn {
+  height: 6rem;
+  width: 18rem;
+  background-color: #2754eb;
+  border-radius: 100px;
+  border: none;
+  color: white;
+  text-transform: uppercase;
+  margin: 4rem 0 16rem 21rem;
+}
